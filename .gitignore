@@ -1,0 +1,22 @@
+# Ignore OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editors / IDE
+*.swp
+*.code-workspace
+.vscode/
+
+# Python cache (if any scripts added later)
+__pycache__/
+*.pyc
+
+# Packet Tracer backup / autosave files
+*.bak
+*.autosave
+
+# Logs
+*.log
+
+# Misc
+*.tmp

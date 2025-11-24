@@ -1,0 +1,31 @@
+Lok 4ola
+
+Student ID:
+Lab 01 Task
+
+In Islamic University of Technology (IUT), each computer lab has its own network. There are
+five labs, each with two PCs. The lab’s network has a pattern of having 192.id for the first 2
+portions of the network address. id is the last two digits of your student id
+
+Your task is to design an interconnection such that any PC in Lab z can reach any PC in
+Lab y.
+
+As TUT is in Board Bazar, there is a problem of frequent load shedding. For that, some-
+times some of the network connecting devices might not work right. Keep this in mind when
+designing the network to solve this issue.
+
+Lab 01 Grading Criteria
+1. Building the topology: 15 marks
+e Lab’s topology - 2 * 5 = 10 marks
+e Connection between the labs = 5 marks
+2. Configuring the PCs: 5 marks
+e 10 PCs x .5 mark each
+3. Configuring the Routers: 10 marks
+4. Verifying connectivity (ping): 10 marks
+e Each lab’s PCs local connectivity test - .5 marks each PC - 5 marks
+o Global connectivity test - .5 marks each PC - 5 marks
+5. Solving the load shedding problem: 10 marks
+6. Total: 50 marks
+
+Islamic University of Technology (TUT)
+
